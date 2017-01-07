@@ -1,5 +1,5 @@
 
-var proxy = "server01.pac.itzmx.com:25;";
+var proxy = "104.224.172.49:25;";
 
 var domains = {
   "download.kolor.com": 1,
